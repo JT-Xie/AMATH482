@@ -1,3 +1,4 @@
 # AMATH482
 
-Five assignments were uploaded including codes and reports.
+This repositories contains five assignments from AMATH 482. They are relating to image processing or video processing. 
+Reports, result figures and codes were uploaded.
